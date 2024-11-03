@@ -41,12 +41,12 @@ values
 
 insert into single(name, duration, album_id)
 values
-('Мама',4,2),
-('Мой путь',4,3),
-('My Brother',2, 1),
-('In my Heart', 3, 1),
-('Звезда',6,4),
-('Домофон',4,5);
+('Мама',240,2),
+('Мой путь',240,3),
+('My Brother',120, 1),
+('In my Heart', 180, 1),
+('Звезда',360,4),
+('Домофон',240,5);
 
 insert into collection(name, release_date)
 values
